@@ -1,0 +1,13 @@
+pwd
+cd /home/vboxuser/2022210012
+pwd
+touch names.txt
+ls
+cat>names.txt
+cat names.txt
+touch blames.txt
+cp names.txt blames.txt
+cat blames.txt
+rm names.txt
+tail -2 blames.txt
+wc -l blames.txt
